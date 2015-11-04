@@ -2,8 +2,8 @@
 
 
 ## Calculating moles
-Definition/Usage:
-Equation:
+Definition/Usage: 6.02 x 10^23 amount of a substance 
+Equation: grams of substance/molecular mass=mole
 
 ### Examples
 
@@ -14,14 +14,14 @@ Equation:
 ### Examples
 
 ## Calculating Molarity
-Definition/Usage:
-Equation:
+Definition/Usage: 
+Equation: number of moles of substance/volume (liters) solute=molarity
 
 ### Examples
 
 ## Calculating Dilutions
-Definition/Usage:
-Equation:
+Definition/Usage: 
+Equation: original concentration X original volume=final concentration x final volume (c1v1=c2v2)
 
 ### Examples
 
