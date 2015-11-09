@@ -6,6 +6,7 @@ Definition/Usage: 6.02 x 10^23 amount of a substance
 Equation: grams of substance/molecular mass=mole
 
 ### Examples
+http://www.chemteam.info/Solutions/Molarity-probs1-10.html These are really good practice problems.
 
 ## Calculating Formula Weight/ Molecular Mass
 Definition/Usage:
