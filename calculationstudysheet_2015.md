@@ -7,6 +7,7 @@ Equation: grams of substance/molecular mass=mole
 
 ### Examples
 
+
 ## Calculating Formula Weight/ Molecular Mass
 Definition/Usage:
 Equation:
@@ -16,6 +17,7 @@ Equation:
 ## Calculating Molarity
 Definition/Usage: 
 Equation: number of moles of substance/volume (liters) solute=molarity
+http://www.chemteam.info/Solutions/Molarity-probs1-10.html These are really good practice problems.
 
 ### Examples
 
