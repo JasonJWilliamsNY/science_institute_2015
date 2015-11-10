@@ -15,6 +15,7 @@
 ### Important Concepts
 * PCR allows specific amplification of DNA
 * Some regions of DNA contains 'genes'; some do not
+* Genes are highly conserved while non-genes are not
 * We can sequence DNA
 
 
