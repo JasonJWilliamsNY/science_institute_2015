@@ -24,11 +24,11 @@
 In continuation of the DNA Barcoding lab, this week will introduce an important technique called Polymerase Chain Reaction or [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction). The PCR technique will allow us to examine certain regions of DNA (in this case the barcode regions) by selectively amplifying them and then sequencing them (reading the chemical composition of the DNA basepairs). 
 
 # Class Contributions
-
+PCR, Polymerase Chain Reaction allowes us to selectively amplify (copy) specific DNA sequences. Chain reactions are usually exponential and while continueing from A to B to C they are also getting larger. DNA is made up of base pairs A,T,C and G. Only certain regions of the sequence have known functions. A gene will have a very specific pattern if it incodes for a protein. Genes are highly concerved, non genes are not conserved. You will need to look at the genes to identify the species of yor sample, hoping most of the genes would be conserved with some changes. 
 ### Good Explanations of PCR
 
-Website:
-Description:
+Website:[PCR](http://learn.genetics.utah.edu/content/labs/pcr/)
+Description:This website is an easy way to understand PCR and even has a virtual description of it.
 
 Website:
 Description:
