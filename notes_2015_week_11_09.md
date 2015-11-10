@@ -43,10 +43,14 @@ Place a link to an interesting science or news article where PCR was involved to
 
 >Hint: You can add a link to the notes by putting a set of square brackets '[]' next to a set of parentheses (). Put the text of the link in the square brackets [Text] and the website address in the parentheses (someurl). So '\[Text](someurl)'. When your change is saved  to GitHub it will create the link. You can also see examples in the notes earlier. 
 
-Website: https://www.youtube.com/watch?v=OK7_ReXhVaQ
-Description:Although a little longer this video explains the process of PCR and its uses very well!!
 
-Website:
+* Website: https://www.youtube.com/watch?v=OK7_ReXhVaQ
+Description: Although a little longer this video explains the process of PCR and its uses very well!!
+
+* Website: https://www.youtube.com/watch?v=iQsu3Kz9NYo
+Description: This is cute animation that explains PCR
+
+* Website:
 Description:
 
 ### Your Answers
