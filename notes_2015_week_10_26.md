@@ -30,5 +30,24 @@ DNA Barcoding (See the [Laboratory Manual](https://github.com/JasonJWilliamsNY/s
 * Localize and copy a specific section of DNA (PCR)
 * Read and analyze DNA sequence
 
+PIPETTE DEMO 
+What is a Pipette?
+  easy way to transfer liquid
+Adjustable pipettes:
+  Works with microliter volumes.
+  Reusable without cross contamination.
+      use disposable plastic tips
+  Highly accurate and precise.
+  Comes in three colors:
+      Blue-   100-1000
+      Yellow- 10-100
+      Grey-   0.5-10
+    Always use the pipette with the smallest range!
+  Remember to match tubes with the correct pipette.
+      blue- blue tips
+      yellow- 200 tips
+      grey- 10 tips
+  Remember to pipette from the first stop.
+
 
 This laboratory will take several sessions, and we will focus a great deal on good laboratory technique and process (including documentation of metadata)
