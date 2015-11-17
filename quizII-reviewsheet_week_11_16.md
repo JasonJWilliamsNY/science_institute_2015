@@ -28,3 +28,14 @@
 
 
 ### Contributions from your notes
+
+
+## Other useful resources
+
+* [Video on PCR (2D)](https://www.dnalc.org/resources/animations/pcr.html)
+* [Video on PCR (3D)](https://www.dnalc.org/resources/3d/19-polymerase-chain-reaction.html)
+* [DNA Barcoding Animation](https://www.dnalc.org/resources/animations/dna-barcoding.html)
+* [DNA Replication ](https://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html)(not covered in class but useful)
+
+
+## Suggested Quiz Questions (class contributed)
