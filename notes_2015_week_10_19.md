@@ -83,6 +83,22 @@ So we need to add 0.1L of 5M NaCl to 0.5 L of H<sub>2</sub>0 to get a final conc
 #### How confident are you about answering the following questions
 
 * How would dilute 5M NaCl to make 1 liter of 0.5M NaCl?
+C1= 5M
+V1= X
+C2= .5M
+V2= 1L 
+
+To solve,
+
+(C1)(V1)=(C2)(V2)
+5M * XL = .5M * 1L
+5M * XL = .5 Mole Liters
+/5M       /5M
+------------
+X = .1L
+
+We need to add .1L of 5M NaCl to make 1 liter of .5M NaCl
+
 * How would you dilute 10M C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> to make 1 liter of 0.5M C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>?
 
 
