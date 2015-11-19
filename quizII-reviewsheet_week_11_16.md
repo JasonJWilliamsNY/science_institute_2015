@@ -39,3 +39,4 @@ PCR is used to  amplify a DNA target sequence. The PCR primers are short pieces 
 
 
 ## Suggested Quiz Questions (class contributed)
+1. Why is the isopropanol replaced by ethanol?
