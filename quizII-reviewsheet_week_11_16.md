@@ -40,3 +40,8 @@ PCR is used to  amplify a DNA target sequence. The PCR primers are short pieces 
 
 ## Suggested Quiz Questions (class contributed)
 1. Why is the isopropanol replaced by ethanol?
+2. Why is there a higher advantage of getting the exact targetted space by repeating the extension step more than once?
+3. How much resolution is needed to compare a monarch and viceroy butterfly? Explain.
+(maybe insert a picture of them both: http://www.gpnc.org/images/jpegs/animals/monarchf.jpg 
+                                      https://networkofideas.files.wordpress.com/2010/11/monarch-butterfly1.jpg )
+
