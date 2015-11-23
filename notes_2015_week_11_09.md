@@ -1,4 +1,18 @@
 #DNA Barcoding - PCR
+Notes from 11/2-3
+DNA barcoding is a way for us to identify species
+1. Plants are sampled
+2. DNA is extracted
+3. Portions of DNA have a "barcode" which is amplified and each barcode is unique
+4. DNA is compared with unknown sequences to see if we find a match in the database so we can identify it
+Problems- 1. nobody knows how many species there are. We estimate that there are around 6,000 mammals and amphibians, 10,000 birds and reptiles, and 31,000 fish. There are currently between 1.5-2 million species and we estimate that this is only about a half of the existent species
+2. there is a debate on how to define a species
+Some might genotypically be similar but not phenotypically similar and genders of the same bird look very different. A species can mate and produce fertile offspring, eat same food, have genetic similarities..
+biomimetics- we copy nature's designs, tells us about ecosystem/environment
+ex- amphibians have thick skin that needs water and if they die out it shows the environment is polluted
+3. taxonomy isn't adequate to capture vanishing biodiversity. Traditional barcoding is open to vagueness as opposed to barcoding which is more objective
+DNA extraction- we crush a sample of a leaf to get to the nucleus. A cell contains organelles and organic compounds such as lipids such as the cell membrane's phospholipid bilayer, peptides like amino acids, carbohydrates such as cellulose and nucleic acids such as DNA and RNA. We need to chemically get rid of everything other than the DNA in order to extract it.
+
 #### Week of : November 9th, 2015
 
 ### Important terms
