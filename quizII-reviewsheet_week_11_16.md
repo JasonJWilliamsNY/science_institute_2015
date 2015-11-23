@@ -54,6 +54,10 @@ Ex- Google ignores filler words/prepositions. When searching for DNA you can onl
 * Resolution - How do gene/non-gene regions of DNA help us resolve between species and non-species
 Genes are highly conserved regions of DNA from species to species while non-genes are often not conserved. Therefore when looking at genetic barcode we look at the genetic part of the DNA. This allows us to examine the genes, and the higher genomic DNA % conserved the more closely related they are.
 * How does PCR work (reagents/steps/etc.)?
+* 3 Stages of PCR:
+* 1. Melting Stage - occurs at 95 degrees celsius, this is when the douvle stranded DNA becomes single stranded DNA
+* 2. Annealing Stage - occurs at 50 degrees celsius, at this point the PCR Primers bind. The reaction is cooled so that the biggers strands of DNA dont have enough time to bond but since the PCR Primers are small (oligos) they cool down faster and bind to their match
+* 3. Extension - occurs at 72 degrees celsius, the double stranded DNA have matches and the primers are still attached so the polymerase will bend there and replicate those portions of DNA
 
 * How does DNA extraction work(reagents/steps/etc.)? 
 Steps of DNA Extraction:
