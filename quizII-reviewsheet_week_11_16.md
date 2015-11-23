@@ -1,7 +1,7 @@
 # Review Sheet for Quiz II - DNA Barcoding and PCR
 
 ## Vocabulary terms may include:
-<<<<<<< HEAD
+
 * DNA Barcoding-
 * DNA Barcoding region (locus)
 * PCR-Polymerase Chain Reaction: Allows us to selectively amplify/copy specific DNA sequences 
