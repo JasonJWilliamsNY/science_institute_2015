@@ -36,6 +36,8 @@ PCR is used to  amplify a DNA target sequence. The PCR primers are short pieces 
 * [Video on PCR (3D)](https://www.dnalc.org/resources/3d/19-polymerase-chain-reaction.html)
 * [DNA Barcoding Animation](https://www.dnalc.org/resources/animations/dna-barcoding.html)
 * [DNA Replication ](https://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html)(not covered in class but useful)
+* PCR Explained http://learn.genetics.utah.edu/content/labs/pcr/
+* DNA Barcoding Explained http://www.barcodeoflife.org/content/about/what-dna-barcoding
 
 
 ## Suggested Quiz Questions (class contributed)
