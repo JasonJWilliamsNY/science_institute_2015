@@ -40,3 +40,6 @@ PCR is used to  amplify a DNA target sequence. The PCR primers are short pieces 
 
 ## Suggested Quiz Questions (class contributed)
 1. Why is the isopropanol replaced by ethanol?
+because ethanol is a loghter molecular weight alcohol and it takes less engergy and evaporayes more quickly
+2. What is the step of adding ethanol called and why?
+The wash because it washes away al excess carbs and proteins making the sample as pure as possible
