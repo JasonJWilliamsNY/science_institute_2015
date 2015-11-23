@@ -97,16 +97,15 @@ Humans have about 3 billion base pares so therefore we need to put in the least 
 
 ## Suggested Quiz Questions (class contributed)
 1. Why is the isopropanol replaced by ethanol?
-
 2. Humans have around 3 billion base pairs in their DNA about how long would PCR primer have to be?
 
  "A'" 1/4 * "T" 1/4 = 1/16 "AT" 16* "AT" 1/16 =1/32 ............8 bases 1/1024... 16 bases 1/1048576.....24 bases 1/107373741824  25 bases 1/ 4 billion so between 24 to 25 bases 
-
 2. What is the step of adding ethanol called and why?
-
-- The wash because it washes away all excess carbs and proteins making the sample as pure as possible. 
-
-- Because ethanol is a lighter molecular weight alcohol and it takes less energy and evaporates more quickly
-
+>The wash because it washes away all excess carbs and proteins making the sample as pure as possible. 
+>Because ethanol is a lighter molecular weight alcohol and it takes less energy and evaporates more quickly
+4. Why is there a higher advantage of getting the exact targeted space by repeating the extension step more than once?
+5.  How much resolution is needed to compare a monarch and viceroy butterfly? Explain.
+(maybe insert a picture of them both: http://www.gpnc.org/images/jpegs/animals/monarchf.jpg 
+                                      https://networkofideas.files.wordpress.com/2010/11/monarch-butterfly1.jpg )
 
 
