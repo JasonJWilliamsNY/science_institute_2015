@@ -56,8 +56,8 @@ If you want an image, just follow the link text in the brackets with an exclamat
 
 ## Homework
 
-Go to https://github.com/JasonJWilliamsNY/science_institute_2015/tree/master/markdown_homework
+Go to https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/markdown_homework/markdown_scratchpad 
 
-1. Look for the button called 'New File'
-2. Submit the following:
-3. 
+Edit the file as you normally would, only this time make sure it is formatted, using Markdown. 
+
+Using the markdown scratchpad to type up notes for the first 3 steps of the DNA barcoding DNA Extraction experiment. 
