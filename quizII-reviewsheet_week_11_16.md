@@ -2,12 +2,12 @@
 
 ## Vocabulary terms may include:
 
-* DNA Barcoding-
+* DNA Barcoding- classification method that uses a short genetic marker in an organism's DNA to identify it as belonging to a particular species
 * DNA Barcoding region (locus)
 * PCR-Polymerase Chain Reaction: Allows us to selectively amplify/copy specific DNA sequences 
 * Primer- shorter pieces of DNA used in PCR to help extract our info9 sorta like a search bar put some info in to get some)
-* DNA Polymerase
-* Taq Polymerase
+* DNA Polymerase- The DNA polymerases are enzymes that create DNA molecules by assembling nucleotides, the building blocks of DNA
+* Taq Polymerase- a thermostable DNA polymerase
 =======
 * DNA Barcoding- a taxonomic method that uses a short genetic marker in an organism's DNA to identify it as belonging to a particular species.
 * DNA Barcoding region (locus)- the specific location or position of a gene, DNA sequence, on a chromosome.
