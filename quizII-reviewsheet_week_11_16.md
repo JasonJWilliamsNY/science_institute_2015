@@ -97,7 +97,8 @@ Humans have about 3 billion base pares so therefore we need to put in the least 
 
 * [PCR] http://study.com/academy/lesson/taq-polymerase-definition-function-quiz.html
 
-
+https://www.youtube.com/watch?v=iQsu3Kz9NYo 
+This is a helpful PCR simulation showing how PCR works and the different steps of it enacted in a way that is easy to understand.
 
 ## Suggested Quiz Questions (class contributed)
 1. Why is the isopropanol replaced by ethanol?
