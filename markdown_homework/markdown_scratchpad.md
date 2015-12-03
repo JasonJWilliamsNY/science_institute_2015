@@ -24,5 +24,5 @@
 ##DNA Barcoding
 1. Grind 30 mg of plant tissue in 600 ul of nuclei lysis buffer.
 2. Incubate sample at 65 degreees celsius for 15 minutes. 
-3. Add 3 ul of RNAse. 
+3. Add 3 ul of RNAse.  
 
