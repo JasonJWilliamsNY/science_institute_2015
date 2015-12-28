@@ -18,7 +18,7 @@ Equation:
 Definition/Usage: 
 Equation: number of moles of substance/volume (liters) solute=molarity
 http://www.chemteam.info/Solutions/Molarity-probs1-10.html These are really good practice problems.
-
+You have  22L of a solution at 5.6 M but you need the soulution to be at 4.2 M, how much solution at the new concentration can you make? 28L
 ### Examples
 
 ## Calculating Dilutions
