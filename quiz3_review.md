@@ -6,9 +6,9 @@
 Be able to define and explain the following:
 
 * Sequencing primers
-* Dideoxynucleotides
-* Steps in sequencing process (melting, annealing, polymerase function)
-* Purpose of electrophoresis in polyacrylamide gel
+* Dideoxynucleotides- ddNTP is added to a reaction as a chain-elongating inhibititor of DNA Polymerase. Dideoxynucleotides are missing 2 nucleotides and also have a floursecent dye 
+* Steps in sequencing process (melting, annealing, polymerase function)- during the melting stage the DNA is heated up, denatures and the double strands are separtated. Next comes the annealing stage where the reaction is cooled long enough for the PCR Primer to bond to the single strand DNA. During the extension stage, the nucleotides float around randomly and if the correct one hits the polymerase, it gets attached. Instead of dNTP being incorporated a ddNTP will be incorporated but the ddNTP prevents the matching nucleotide from attaching because it doesn't fit, thus causing the chain to terminate. 
+* Purpose of electrophoresis in polyacrylamide gel- polyacrylamid gel is much thicker and gives us a much higher resolution than agorose gel. The machine separates the strands by size/weight and in polyacrylamide it is very detailed. 
 
 See: [Sequencing animation](https://www.dnalc.org/resources/animations/cycseq.html)
 
