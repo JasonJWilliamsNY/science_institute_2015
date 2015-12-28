@@ -33,4 +33,5 @@ Be able to explain:
 
 ### Your suggested quiz questions (due by 12/27)
 
-
+1. Why would one use command-line as opposed to point-and-click in scientific computing?
+2. What's so special about polyacrylamide gel?
