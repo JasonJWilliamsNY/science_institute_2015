@@ -4,18 +4,18 @@
 ### Important terms
 
 * Buffer (TBE)
-* Restriction Enzyme
-* Agarose
+* Restriction Enzyme- cuts DNA at a specific restriction site which is often palindromic. This is because enzymes are often dimers and are oppisite mirror images of each other. They are often used in genetic engineering and modification.
+* Agarose-the material normally used for the 'gel' in gel electrophoresis
 * Loading Dye
 * Power Source
-* Electrostatic forces
+* Electrostatic forces- DNA is negatively charged so it will go towards the positive ("runs towards red').
 * DNA ladder (Molecular weight marker)
-
+* CRISPR Cas 9- this method of gene editing is replacing restriction enzymes because it is easier and more efficient. 
 
 
 ### Important Concepts
 * Resolution
-* Stock solutions
+* Stock solutions- solution kept at a high concentration in order to be diluted down for use
 * Positive, Negative, Sensitivity Controls
 * Error and uncertainty 
 
